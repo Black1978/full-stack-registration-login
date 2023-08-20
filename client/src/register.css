@@ -1,0 +1,55 @@
+.register {
+    margin: 50px auto 0 auto;
+    max-width: 250px;
+    padding: 15px;
+    background-color: blue;
+    color: aliceblue;
+}
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+input {
+    padding: 5px 10px;
+}
+label {
+    margin-top: 15px;
+}
+.insturctions {
+    max-width: 250px;
+    margin-top: 5px;
+}
+.offscreen,
+.hide {
+    display: none;
+    max-width: 250px;
+    margin-bottom: 25px;
+}
+button {
+    color: rgba(0, 0, 255, 0.655);
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+    margin-top: 10px;
+}
+.alregister {
+    margin-top: 10px;
+}
+
+a {
+    color: white;
+}
+.icons {
+    margin-right: 5px;
+}
+.iconGreen {
+color: green;
+}
+.iconRed {
+    color: red;
+}
